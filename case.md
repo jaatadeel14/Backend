@@ -1,2 +1,1 @@
-
-[Adeel Shabbir Use Case Şablon.pdf](https://github.com/jaatadeel14/Backend/files/14966930/Adeel.Shabbir.Use.Case.Sablon.pdf)
+[Adeel Shabbir Use Case.docx](https://github.com/jaatadeel14/Backend/files/14966950/Adeel.Shabbir.Use.Case.docx)
